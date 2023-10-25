@@ -1,11 +1,11 @@
-# • Olá, eu sou Victor Gomes 😀
-### • Desenvolvedor apaixonado por jogos/sistemas.
+## • Olá, eu sou Victor Gomes 😀
+### • Desenvolvedor apaixonado por jogos/sistemas
 ##
-• Técnico em Redes de Computadores
+• Técnico em Redes de Computadores 🌐
 
-• Cursando Análise e Desenvolvimento de Sistemas (UFRN)
+• Cursando Análise e Desenvolvimento de Sistemas (UFRN) 💻
 
-• Aprimorando conhecimentos nas linguagens JAVA | C++ | C#
+• Aprimorando conhecimentos nas linguagens JAVA | C++ | C# 🚀
 
 ##
 
